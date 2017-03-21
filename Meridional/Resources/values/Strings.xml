@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- General -->
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">SurveyMeridional</string>
+  <string name="MainHotel">Hotel</string>
+  <string name="MainRestaurant">Restaurant</string>
+  <string name="GeneralNext">Next</string>
+  <string name="GeneralBack">Back</string>
+  <string name="GeneralScore1">Score 1</string>
+  <string name="GeneralScore2">Score 2</string>
+  <string name="GeneralScore3">Score 3</string>
+  <string name="GeneralScore4">Score 4</string>
+
+  <!-- Reception Strings -->
+  <string name="hsReceptionTitle">Reception</string>
+  <string name="hsReceptionQ1">Responsiveness</string>
+  <string name="hsReceptionQ2">Service</string>
+  <string name="hsReceptionQ3"></string>
+
+  <!-- Room Strings -->
+  <string name="hsRoomTitle">Room</string>
+  <string name="hsRoomQ1">Comfort</string>
+  <string name="hsRoomQ2">Clenliness</string>
+  <string name="hsRoomQ3">NA</string>
+
+  <!-- Breakfast Strings -->
+  <string name="hsBreakfastTitle">Breakfast</string>
+  <string name="hsBreakfastQ1">Quality</string>
+  <string name="hsBreakfastQ2">Variety</string>
+  <string name="hsBreakfastQ3">NA</string>
+
+  <!-- Staff Strings -->
+  <string name="hsStaffTitle">Staff</string>
+  <string name="hsStaffQ1">Frendliness</string>
+  <string name="hsStaffQ2">Professionalism</string>
+  <string name="hsStaffQ3">NA</string>
+
+  <!-- Hotel Strings -->
+  <string name="hsHotelTitle">Hotel</string>
+  <string name="hsHotelQ1">Ambience</string>
+  <string name="hsHotelQ2">Value</string>
+  <string name="hsHotelQ3">NA</string>
+
+</resources>

@@ -1,0 +1,12 @@
+Meridional.HotelActivity, Meridional;md5ca981665387779128a06dce191f9e39e.HotelActivity
+Meridional.HotelActivity, Meridional, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ca981665387779128a06dce191f9e39e.HotelActivity
+Meridional.HotelActivity;md5ca981665387779128a06dce191f9e39e.HotelActivity
+meridional.HotelActivity;md5ca981665387779128a06dce191f9e39e.HotelActivity
+Meridional.MainActivity, Meridional;md5ca981665387779128a06dce191f9e39e.MainActivity
+Meridional.MainActivity, Meridional, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ca981665387779128a06dce191f9e39e.MainActivity
+Meridional.MainActivity;md5ca981665387779128a06dce191f9e39e.MainActivity
+meridional.MainActivity;md5ca981665387779128a06dce191f9e39e.MainActivity
+Meridional.RestaurantActivity, Meridional;md5ca981665387779128a06dce191f9e39e.RestaurantActivity
+Meridional.RestaurantActivity, Meridional, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ca981665387779128a06dce191f9e39e.RestaurantActivity
+Meridional.RestaurantActivity;md5ca981665387779128a06dce191f9e39e.RestaurantActivity
+meridional.RestaurantActivity;md5ca981665387779128a06dce191f9e39e.RestaurantActivity
